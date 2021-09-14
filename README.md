@@ -15,3 +15,5 @@
 5. Submeta um `pull request` para avaliação do professor.
 
 **Obs.:** Comentários, avaliação do código e dicas serão registradas nesse `pull request`.
+
+### Mesa de trabalho 05: Karla Mazia, Raimundo Nonato, Anderson Silva, Angelica Lirio, Tatiana Almeida, Matheus Kramer, Luciano Batista.
